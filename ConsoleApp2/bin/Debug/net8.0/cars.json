@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "Marka": "F10",
+    "Model": "Bmw",
+    "Year": 2012
+  },
+  {
+    "Id": 2,
+    "Marka": "E200",
+    "Model": "Mercedes",
+    "Year": 2014
+  },
+  {
+    "Id": 3,
+    "Marka": "011",
+    "Model": "Lada",
+    "Year": 2011
+  }
+]
